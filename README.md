@@ -6,5 +6,5 @@ This entails the need to reliably compare their capabilities, in order to determ
 
 The present project contains a Jupyter notebook with all all the code used for the statistical comparison of two IR models (Word2Vec and Boolean) and the corresponding TREC runs, performed using the mentioned models.
 
-#Dataset
+# Dataset
 The project makes uses of the TREC Genomics dataset, which has NOT been included.
